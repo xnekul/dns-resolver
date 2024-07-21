@@ -1,0 +1,12 @@
+Authoritative: Yes, Recursive: No, Truncated: No, 
+Question section (1)
+vutbr.cz. TXT, IN, 
+
+Answer section (3)
+vutbr.cz. TXT, IN, 3600, pv=spf1 ip4:147.229.0.0/16 ip6:2001:67c:1220::/48 include:spf.protection.outlook.com include:_spf.google.com ~al 7076:3d73:7066:3120:6970:343a:3134:372e
+vutbr.cz. TXT, IN, 3600, MS=ms2162787 d4d:533d:6d73:3231:3632:3738:3736:c00c
+vutbr.cz. TXT, IN, 3600, Dgoogle-site-verification=kSdrjCE0ee5GKpv_Xtr-18k9Pm1OzRIVXrkm9kIwEA 4467:6f6f:676c:652d:7369:7465:2d76:6572
+
+Authority section (0)
+
+Additional section (0)

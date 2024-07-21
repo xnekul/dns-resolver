@@ -1,0 +1,17 @@
+ ===========================
+     DNS PROGRAM - HELP
+ ===========================
+Usage: dns [-r] [type] -s server [-p port] address
+
+-r: Recursion Desired, else without recursion.
+type: specifies type of the query, by default A type record is queried
+    -6 for AAAA,
+    -x for reverse IPv4 query
+    -mx for MX
+    -cname for CNAME
+    -ns for NS
+    -txt for TXT
+    -hinfo for HINFO
+-s: IP address or domain name of server where should be query send.
+-p port: Destination port number, default is 53
+address: Queried address.

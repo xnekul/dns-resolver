@@ -1,0 +1,14 @@
+Authoritative: Yes, Recursive: No, Truncated: No, 
+Question section (1)
+www.fit.vut.cz. A, IN, 
+
+Answer section (1)
+www.fit.vut.cz. A, IN, 14400, 147.229.9.26
+
+Authority section (4)
+fit.vut.cz. NS, IN, 14400, rhino.cis.vutbr.cz.
+fit.vut.cz. NS, IN, 14400, guta.fit.vutbr.cz.
+fit.vut.cz. NS, IN, 14400, gate.feec.vutbr.cz.
+fit.vut.cz. NS, IN, 14400, kazi.fit.vutbr.cz.
+
+Additional section (0)

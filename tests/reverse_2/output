@@ -1,0 +1,12 @@
+Authoritative: No, Recursive: No, Truncated: No, 
+Question section (1)
+90.2.229.147.IN-ADDR.ARPA. PTR, IN, 
+
+Answer section (0)
+
+Authority section (3)
+2.229.147.in-addr.arpa. NS, IN, 28800, pipit.cis.vutbr.cz.
+2.229.147.in-addr.arpa. NS, IN, 28800, rhino.cis.vutbr.cz.
+2.229.147.in-addr.arpa. NS, IN, 28800, swordfish.ro.vutbr.cz.
+
+Additional section (0)
